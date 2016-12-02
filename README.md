@@ -6,3 +6,6 @@ http://roadskillmap.com/
 
 Mapa con indice de muertos de todos los paises y estadisitcas con comparacion de otros paises
 http://ec.europa.eu/transport/road_safety/specialist/statistics/map-viewer/
+
+Mapa de choques 
+http://virginiaroads.org/
